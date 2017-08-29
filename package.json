@@ -1,9 +1,9 @@
 {
   "name": "ember-primer-workshop",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Small description for ember-primer-workshop goes here",
-  "license": "MIT",
-  "author": "",
+  "license": "Properiatary",
+  "author": "CS3B Michał Czyz",
   "directories": {
     "doc": "doc",
     "test": "tests"
